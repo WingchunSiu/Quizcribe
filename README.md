@@ -10,7 +10,7 @@ By entering a link to a video, such as one from YouTube, Quizcribe automatically
 Through providing a more versatile, time-efficient, and fun study medium, Quizcribe aims to expand the effectiveness of free online education, further expanding the accessibility of educational resources to people of all backgrounds. 
 
 Main Features:
-* Automated voice-to-speech transcription that converts videos/audio of any length into text.
+* Automated speech-to-text transcription that converts videos/audio of any length into text.
 * AI-powered video summary and interactive quiz generation.
 * Video detection and transcription support for 16 languages. 
 
